@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman05382&label=Profile%20views&color=0e75b6&style=flat" alt="aman05382" /> </p>
 
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman05382" alt="aman05382" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aman05382" target="blank"><img src="https://img.shields.io/twitter/follow/aman05382?logo=twitter&style=for-the-badge" alt="aman05382" /></a> </p>-->
+
 
 - 🔭 I’m currently studying in **computer science stream**
 

@@ -45,6 +45,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman05382&" alt="aman05382" /></p>
 
+### top languages ⚡️
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=aman05382&show_icons=true&locale=en&layout=compact)
+
 ### Stats ⚡️
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aman05382&show_icons=true&locale=en)
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=aman05382&)

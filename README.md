@@ -44,3 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman05382&show_icons=true&locale=en" alt="aman05382" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman05382&" alt="aman05382" /></p>
+
+### Stats ⚡️
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=aman05382&)

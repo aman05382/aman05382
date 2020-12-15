@@ -38,8 +38,8 @@
 
 <br><br>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman05382&show_icons=true&locale=en&layout=compact" alt="aman05382" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman05382&show_icons=true&locale=en&layout=compact" alt="aman05382" /></p>
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman05382&show_icons=true&locale=en" alt="aman05382" /></p>
 

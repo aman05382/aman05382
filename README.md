@@ -49,8 +49,8 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="" height="40"/> </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<a  href="upi://pay?pa=aman05382@paytm&pn=AMAN SHARMA&cu=INR" id="__UPI_BUTTON__" style="background: #ff912f;border: 2px solid #8a4100;padding: 10px;text-decoration: none;color: white;font-size: larger;border-radius: 10px;">Buy me a Coffee</a>
+<!-- <h3 align="left">Support:</h3>
+<a  href="upi://pay?pa=aman05382@paytm&pn=AMAN SHARMA&cu=INR" id="__UPI_BUTTON__" style="background: #ff912f;border: 2px solid #8a4100;padding: 10px;text-decoration: none;color: white;font-size: larger;border-radius: 10px;">Buy me a Coffee</a> -->
 
 <!--<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aman05382"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aman05382" /></a></p>-->

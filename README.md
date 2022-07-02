@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
-<h3 align="center">A passionate Open Source developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman05382&label=Profile%20views&color=0e75b6&style=flat" alt="aman05382" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Ethical Hacking, Programming language, Frameworks, New technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aman05382](https://github.com/aman05382)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/aman05382)
 
 - 💬 Ask me about **anything you want to ask.**
 
 - 📫 How to reach me **aman05382@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aman05382/](https://www.linkedin.com/in/aman05382/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/aman05382/)
 
 - ⚡ Fun fact **I don’t play any sports nor know anything about them.**
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/aman05382" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aman05382" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman05382" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aman05382" height="30" width="40" /></a>
-<a href="https://fb.com/aman05382" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aman05382" height="30" width="40" /></a>
+<a href="https://facebook.com/aman05382" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aman05382" height="30" width="40" /></a>
 <a href="https://instagram.com/aman05382" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aman05382" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aman05382" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aman05382" height="30" width="40" /></a>
 </p>
